@@ -13,3 +13,14 @@ consists of 4 component:
     * #10 - Trigger for Infra support --> infra issue upport 
 
 ![mlops conceptual architecture ](https://github.com/Azure/mlops-v2/blob/main/documentation/architecture/media/AzureML_CML_Architecture.png)https://github.com/Azure/mlops-v2/blob/main/documentation/architecture/media/AzureML_CML_Architecture.png)
+
+
+
+#Additional notes for setting up the environment for MLOps
+1. First thing is to setup the DevOps(CI/CD) infra part
+    * need to request free parallelJob quota from this site https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR5zsR558741CrNi6q8iTpANURUhKMVA3WE4wMFhHRExTVlpET1BEMlZSTCQlQCN0PWcu
+        * For questions 4 - request for Private Job
+    * Setup service connection
+    * Bring the accelerator template repo into your DevOps project
+    * setup pipeline #1 -create new project usin the template
+2. 
