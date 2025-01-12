@@ -23,4 +23,4 @@ consists of 4 component:
     * Setup service connection
     * Bring the accelerator template repo into your DevOps project
     * setup pipeline #1 -create new project usin the template
-2. 
+<To be continued..>
